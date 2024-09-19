@@ -35,3 +35,7 @@ Na era digital atual, a indústria de software tem experimentado uma transição
 | RNF004  | Interface intuitiva para garantir que os usuários possam facilmente navegar e utilizar o sistema sem treinamento extensivo. |
 | RNF005  | Alta confiabilidade para assegurar que o sistema está sempre disponível e operante, especialmente em condições críticas. |
 | RNF006  | Facilidade de manutenção para permitir atualizações e melhorias contínuas sem interrupções significativas do serviço.  |
+
+## Cronograma e planejamento
+
+![Visualização das etapas previstas para o desenvolvimento e conclusão do portfólio de projeto](./Cronograma%20TCC.png)
