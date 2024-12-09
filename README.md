@@ -1,6 +1,7 @@
 # Projeto: GERENCIAMENTO DE RISCOS PARA PROJETOS DE DESENVOLVIMENTO DE PRODUTOS DIGITAIS
 
 **Acadêmica:** Brenda Aldrovandi Gaio  
+
 **Orientador:** Andrei Carniel  
 **Coorientador:** Tathiana Duarte do Amarente
 
