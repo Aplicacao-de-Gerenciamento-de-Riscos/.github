@@ -48,3 +48,5 @@ Os principais desafios enfrentados neste projeto decorrem da natureza do modelo 
 ## Cronograma e planejamento
 
 ![Visualização das etapas previstas para o desenvolvimento e conclusão do portfólio de projeto](./Cronograma%20TCC.png)
+
+## Detalhamento técnico do projeto
