@@ -3,6 +3,7 @@
 **Acadêmica:** Brenda Aldrovandi Gaio  
 **Orientador:** Andrei Carniel  
 **Coorientador:** Tathiana Duarte do Amarente
+
 **Docente responsável portfólio:** Tassiana Kautzmann  
 
 ## Resumo
