@@ -53,7 +53,7 @@ Os principais desafios enfrentados neste projeto decorrem da natureza do modelo 
 
 A arquitetura do projeto foi desenvolvida com foco em análise preditiva e visualização de métricas. Ela é composta por camadas interdependentes que garantem a coleta, armazenamento, processamento e exibição dos dados nos gráficos. Os principais componentes técnicos são:
 
-Softwares de Gerenciamento de Projetos (11): Ferramentas como Jira, Trello e Monday podem atuar como fontes primárias de dados. Na uso do projeto, a escolha foi o Jira Cloud. Essas ferramentas fornecem informações detalhadas sobre o progresso dos projetos, tarefas, prazos e status por meio de APIs.
+*Softwares de Gerenciamento de Projetos (11):* Ferramentas como Jira, Trello e Monday podem atuar como fontes primárias de dados. Na uso do projeto, a escolha foi o Jira Cloud. Essas ferramentas fornecem informações detalhadas sobre o progresso dos projetos, tarefas, prazos e status por meio de APIs.
 
 Backend da Aplicação (2): Desenvolvido em Java com Spring Boot, o backend é responsável por consumir os dados do software de gerenciamento, armazená-los no banco de dados e expor endpoints para o frontend e a IA. Ele também integra-se com os algoritmos de IA para receber as previsões de risco, a partir do modelo treinado.
 
