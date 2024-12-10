@@ -73,7 +73,7 @@ O projeto tem como sua principal finalidade a geração de métricas que contrib
 2. Fornecer um modelo de IA treinado capaz de gerar valor por meio de uma leitura gráfica sobre riscos de projetos;
 3. Disponibilizar gráficos em uma interface para que gerentes de projetos, stakeholders e desenvolvedores possam olhar para a versão de um projeto já realizado ou em andamento e entender com base a ela, quais são suas características atribuídas (módulos desenvolvidos, prioridades, tipos de entregas..) para que assim entendam quais ações devem planejar e executar para que novas versões semelhantes não proporcionem o mesmo cenário de erro.
 
-## Algoritmo de aprendizagem e features utilizada
+## Algoritmos de aprendizagem e features utilizadas
 
 Como já citado na arquitetura do projeto acima, os algoritmos escolhidos foram: XGBoost, Random Forest e Gradient Boost. A escolha por três algoritmos deve-se ao fato de buscar o melhor resultado, permitindo a comparação entre eles e visando unir características de desbalanceamento de dados, melhores precisões, capacidade preditiva mais real e a comparação para a escolha de qual irá apresentar melhor desempenho nos dados, garantindo previsões mais precisas e confiáveis para identificar riscos nos projetos.
 
@@ -95,6 +95,29 @@ Como já citado na arquitetura do projeto acima, os algoritmos escolhidos foram:
 |issuetype_Task| Tipo de atividade como task |
 
 ## Linguagens, ferramentas e bibliotecas
+
+De forma geral, a construção e desenvolvimento do projeto foi realizada, com o uso de diferentes linguagens, ferramentas e bibliotecas que proporcionaram melhor adaptação, conhecimento e facilidade de uso. 
+
+Linguagens: 
+Backend: Java;
+Frontend: HTML, CSS, TypeScript;
+IA: Python.
+
+Banco de dados:
+Postgres SQL;
+
+Ferramentas:
+IntelliJ IDEA; 
+Visual Studio Code;
+PyCharm;
+Dbeaver;
+Postman;
+Git.
+
+Bibliotecas e frameworks:
+Backend: Spring Boot, Liquibase, Lombok, Spring Security, Feign Client, Jackson.
+Frontend: Angular, Algular Material, G2Plot.
+IA: NumPy, FastAPI, SQLAlchemy, Joblib, Scikit-learn, pandas, XGBoost.
 
 ## Modelagem de dados
 
