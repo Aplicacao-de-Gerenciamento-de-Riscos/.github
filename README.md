@@ -100,14 +100,16 @@ De forma geral, a construção e desenvolvimento do projeto foi realizada, com o
 
 Linguagens: 
 
-Backend: Java;
+Backend: Java;<br/>
 Frontend: HTML, CSS, TypeScript;
 IA: Python.
 
 Banco de dados:
+
 Postgres SQL;
 
 Ferramentas:
+
 IntelliJ IDEA; 
 Visual Studio Code;
 PyCharm;
@@ -116,6 +118,7 @@ Postman;
 Git.
 
 Bibliotecas e frameworks:
+
 Backend: Spring Boot, Liquibase, Lombok, Spring Security, Feign Client, Jackson.
 Frontend: Angular, Algular Material, G2Plot.
 IA: NumPy, FastAPI, SQLAlchemy, Joblib, Scikit-learn, pandas, XGBoost.
