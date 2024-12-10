@@ -77,7 +77,8 @@ O projeto tem como sua principal finalidade a geração de métricas que contrib
 
 Como já citado na arquitetura do projeto acima, os modelos escolhidos foram: XGBoost, Random Forest e Gradient Boost. A escolha por três modelos deve-se ao fato de buscar o melhor resultado, permitindo a comparação entre modelos e visando unir características de desbalanceamento de dados, melhores precisões, capacidade preditiva mais real e a comparação para a escolha do modelo que apresenta melhor desempenho nos dados, garantindo previsões mais precisas e confiáveis para identificar riscos nos projetos.
 
-Features: 
+|Features |
+|---------|
 | cod_version; cod_project; time_original_estimate; timespent; priority_Blocker; priority_Critical; priority_Major; priority_Minor; issuetype_Bug; issuetype_Improvement; issuetype_New Feature; issuetype_Risk; issuetype_Story; issuetype_Task;|
 
 ## Linguagens, ferramentas e bibliotecas
