@@ -71,6 +71,14 @@ O projeto tem como sua principal finalidade a geração de métricas que contrib
 2. Fornecer um modelo de IA treinado capaz de gerar valor por meio de uma leitura gráfica sobre riscos de projetos;
 3. Disponibilizar gráficos em uma interface para que gerentes de projetos, stakeholders e desenvolvedores possam olhar para a versão de um projeto já realizado ou em andamento e entender com base a ela, quais são suas características atribuídas (módulos desenvolvidos, prioridades, tipos de entregas..) para que assim entendam quais ações devem planejar e executar para que novas versões semelhantes não proporcionem o mesmo cenário de erro.
 
+## Modelos de IA e features utilizadas
+
+## Linguagens, ferramentas e bibliotecas
+
+## Modelagem de dados
+
+
+
 ## Cronograma e planejamento
 
 ![Visualização das etapas previstas para o desenvolvimento e conclusão do portfólio de projeto](./Cronograma%20TCC.png)
