@@ -99,6 +99,7 @@ Como já citado na arquitetura do projeto acima, os algoritmos escolhidos foram:
 De forma geral, a construção e desenvolvimento do projeto foi realizada, com o uso de diferentes linguagens, ferramentas e bibliotecas que proporcionaram melhor adaptação, conhecimento e facilidade de uso. 
 
 Linguagens: 
+
 Backend: Java;
 Frontend: HTML, CSS, TypeScript;
 IA: Python.
