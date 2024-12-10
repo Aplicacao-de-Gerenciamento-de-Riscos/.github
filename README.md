@@ -73,7 +73,12 @@ O projeto tem como sua principal finalidade a geração de métricas que contrib
 2. Fornecer um modelo de IA treinado capaz de gerar valor por meio de uma leitura gráfica sobre riscos de projetos;
 3. Disponibilizar gráficos em uma interface para que gerentes de projetos, stakeholders e desenvolvedores possam olhar para a versão de um projeto já realizado ou em andamento e entender com base a ela, quais são suas características atribuídas (módulos desenvolvidos, prioridades, tipos de entregas..) para que assim entendam quais ações devem planejar e executar para que novas versões semelhantes não proporcionem o mesmo cenário de erro.
 
-## Modelos de IA e features utilizadas
+## Modelos de IA e features utilizada
+
+Como já citado na arquitetura do projeto acima, os modelos escolhidos foram: XGBoost, Random Forest e Gradient Boost. A escolha por três modelos deve-se ao fato de buscar o melhor resultado, permitindo a comparação entre modelos e visando unir características de desbalanceamento de dados, melhores precisões, capacidade preditiva mais real e a comparação para a escolha do modelo que apresenta melhor desempenho nos dados, garantindo previsões mais precisas e confiáveis para identificar riscos nos projetos.
+
+Features: 
+| cod_version; cod_project; time_original_estimate; timespent; priority_Blocker; priority_Critical; priority_Major; priority_Minor; issuetype_Bug; issuetype_Improvement; issuetype_New Feature; issuetype_Risk; issuetype_Story; issuetype_Task;|
 
 ## Linguagens, ferramentas e bibliotecas
 
