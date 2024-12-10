@@ -49,7 +49,7 @@ Os principais desafios enfrentados neste projeto decorrem da natureza do modelo 
 
 ![Visualização das etapas previstas para o desenvolvimento e conclusão do portfólio de projeto](./Cronograma%20TCC.png)
 
-## Detalhamento técnico do projeto
+## Arquitetura do projeto
 
 A arquitetura do projeto foi desenvolvida com foco em análise preditiva e visualização de métricas. Ela é composta por camadas interdependentes que garantem a coleta, armazenamento, processamento e exibição dos dados nos gráficos. Os principais componentes técnicos são:
 
@@ -64,3 +64,11 @@ A arquitetura do projeto foi desenvolvida com foco em análise preditiva e visua
 *Frontend da Aplicação (5):* Desenvolvido em Angular com Angular Material e G2Plot, o frontend consome os endpoints do backend e exibe métricas dos projetos, bem como previsões geradas pelos algoritmos de IA, proporcionando uma interface de simples leitura e entendimento para os usuários.
 
 ![Arquitetura do projeto](./v0-architeture.drawio.png)
+
+## Funcionalidades principais
+
+O projeto tem como sua principal finalidade a geração de métricas que contribuem com a perspectiva de possíveis projetos futuros que podem possíveis ações para mitigar riscos já ocorridos e avaliados. Com base a isso, suas principais funcionalidades são:
+
+1. Coletar dados de uma ferramenta de gerenciamento de projetos;
+2. Fornecer um modelo de IA treinado capaz de gerar valor por meio de uma leitura gráfica sobre riscos de projetos;
+3. Disponibilizar gráficos em uma interface para que gerentes de projetos, stakeholders e desenvolvedores possam olhar para a versão de um projeto já realizado ou em andamento e entender com base a ela, quais são suas características atribuídas (módulos desenvolvidos, prioridades, tipos de entregas..) para que assim entendam quais ações devem planejar e executar para que novas versões semelhantes não proporcionem o mesmo cenário de erro.
