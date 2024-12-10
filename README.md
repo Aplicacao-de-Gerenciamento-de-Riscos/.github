@@ -50,3 +50,17 @@ Os principais desafios enfrentados neste projeto decorrem da natureza do modelo 
 ![Visualização das etapas previstas para o desenvolvimento e conclusão do portfólio de projeto](./Cronograma%20TCC.png)
 
 ## Detalhamento técnico do projeto
+
+A arquitetura do projeto foi desenvolvida com foco em análise preditiva e visualização de métricas. Ela é composta por camadas interdependentes que garantem a coleta, armazenamento, processamento e exibição dos dados nos gráficos. Os principais componentes técnicos são:
+
+Softwares de Gerenciamento de Projetos (11): Ferramentas como Jira, Trello e Monday podem atuar como fontes primárias de dados. Na uso do projeto, a escolha foi o Jira Cloud. Essas ferramentas fornecem informações detalhadas sobre o progresso dos projetos, tarefas, prazos e status por meio de APIs.
+
+Backend da Aplicação (2): Desenvolvido em Java com Spring Boot, o backend é responsável por consumir os dados do software de gerenciamento, armazená-los no banco de dados e expor endpoints para o frontend e a IA. Ele também integra-se com os algoritmos de IA para receber as previsões de risco, a partir do modelo treinado.
+
+Armazenamento de Dados Relacional (3): Utilizado um banco de dados PostgreSQL para armazenar os dados dos projetos. Ele serve como repositório central para manter informações persistentes necessárias para análise e predições.
+
+Algoritmos de Inteligência Artificial (4): Implementados em Python com bibliotecas como Scikit-learn e XGBoost, os modelos de IA realizam previsões de atrasos e riscos. Eles consomem os dados armazenados e devolvem previsões ao backend para serem exibidas no frontend. Nesse caso foram utilizados três modelos de IA, com o objetivo de a cada vez treinado, ele identificar o melhor resultado que um dos modelos irá fornecer e então assim, utilizar aquele. Os modelos escolhidos foram XGBoost, Random Forest e Gradient Boosting.
+
+Frontend da Aplicação (5): Desenvolvido em Angular com Angular Material e G2Plot, o frontend consome os endpoints do backend e exibe métricas dos projetos, bem como previsões geradas pelos algoritmos de IA, proporcionando uma interface de simples leitura e entendimento para os usuários.
+
+![Arquitetura do projeto](./v0-architeture.drawio.png)
