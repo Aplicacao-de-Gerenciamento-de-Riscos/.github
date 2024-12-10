@@ -45,9 +45,7 @@ Os principais desafios enfrentados neste projeto decorrem da natureza do modelo 
 | RNF005  | Alta confiabilidade para assegurar que o sistema está sempre disponível e operante, especialmente em condições críticas. |
 | RNF006  | Facilidade de manutenção para permitir atualizações e melhorias contínuas sem interrupções significativas do serviço.  |
 
-## Cronograma e planejamento
-
-![Visualização das etapas previstas para o desenvolvimento e conclusão do portfólio de projeto](./Cronograma%20TCC.png)
+## Detalhamento técnico do projeto
 
 ## Arquitetura do projeto
 
@@ -72,3 +70,7 @@ O projeto tem como sua principal finalidade a geração de métricas que contrib
 1. Coletar dados de uma ferramenta de gerenciamento de projetos;
 2. Fornecer um modelo de IA treinado capaz de gerar valor por meio de uma leitura gráfica sobre riscos de projetos;
 3. Disponibilizar gráficos em uma interface para que gerentes de projetos, stakeholders e desenvolvedores possam olhar para a versão de um projeto já realizado ou em andamento e entender com base a ela, quais são suas características atribuídas (módulos desenvolvidos, prioridades, tipos de entregas..) para que assim entendam quais ações devem planejar e executar para que novas versões semelhantes não proporcionem o mesmo cenário de erro.
+
+## Cronograma e planejamento
+
+![Visualização das etapas previstas para o desenvolvimento e conclusão do portfólio de projeto](./Cronograma%20TCC.png)
