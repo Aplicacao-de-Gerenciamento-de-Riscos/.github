@@ -77,9 +77,22 @@ O projeto tem como sua principal finalidade a geração de métricas que contrib
 
 Como já citado na arquitetura do projeto acima, os modelos escolhidos foram: XGBoost, Random Forest e Gradient Boost. A escolha por três modelos deve-se ao fato de buscar o melhor resultado, permitindo a comparação entre modelos e visando unir características de desbalanceamento de dados, melhores precisões, capacidade preditiva mais real e a comparação para a escolha do modelo que apresenta melhor desempenho nos dados, garantindo previsões mais precisas e confiáveis para identificar riscos nos projetos.
 
-|Features |
-|---------|
-| cod_version; cod_project; time_original_estimate; timespent; priority_Blocker; priority_Critical; priority_Major; priority_Minor; issuetype_Bug; issuetype_Improvement; issuetype_New Feature; issuetype_Risk; issuetype_Story; issuetype_Task;|
+|Feature | Descrição |
+|---------|---------|
+| cod_version| ID da versão de um projeto |
+| cod_project| ID do projeto |
+|time_original_estimate| Estimativa de horas da atividade |
+|timespent| Tempo gasto em horas na atividade |
+|priority_Blocker| Prioridade do tipo blocker |
+|priority_Critical| Prioridade do tipo critical |
+|priority_Major| Prioridade do tipo major |
+|priority_Minor| Prioridade do tipo minor |
+|issuetype_Bug| Tipo de atividade como bug |
+|issuetype_Improvement| Tipo de atividade como improvement |
+|issuetype_New Feature| Tipo de atividade como new feature |
+|issuetype_Risk| Tipo de atividade como risk |
+|issuetype_Story| Tipo de atividade como story |
+|issuetype_Task| Tipo de atividade como task |
 
 ## Linguagens, ferramentas e bibliotecas
 
