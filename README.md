@@ -123,6 +123,8 @@ Backend: Spring Boot, Liquibase, Lombok, Spring Security, Feign Client, Jackson.
 Frontend: Angular, Algular Material, G2Plot.<br/>
 IA: NumPy, FastAPI, SQLAlchemy, Joblib, Scikit-learn, pandas, XGBoost.<br/>
 
+![Linguagens, ferramentas e bibliotecas](linguagens-ferramentas-bibliotecas.png)
+
 ## Modelagem de dados
 
 
