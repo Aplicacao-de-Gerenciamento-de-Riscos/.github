@@ -23,7 +23,7 @@
    - [Funcionalidades Principais](#%EF%B8%8F-funcionalidades-principais)  
    - [Algoritmos de Aprendizagem e Features Utilizadas](#-algoritmos-de-aprendizagem-e-features-utilizadas)  
 9. [Linguagens, Ferramentas e Bibliotecas](#-linguagens-ferramentas-e-bibliotecas)
-10. [Testes automatizados e pipeline](#-testes-automatizados-e-pipeline) 
+10. [Testes automatizados e pipeline](#testes-automatizados-e-pipeline) 
 11. [Modelagem de Dados](#modelagem-de-dados)  
 12. [Cronograma de Execução](#cronograma-de-execução)
 
