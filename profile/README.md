@@ -102,9 +102,9 @@ API de predição de atrasos: Implementada em Python utilizando o framework Fast
 
 ### ⚙️ **Funcionalidades Principais**
 
-1. Coleta de dados de ferramentas de gerenciamento de projetos.  
-2. Geração de insights e previsões de riscos usando IA.  
-3. Visualização gráfica de métricas e riscos para auxiliar gerentes e desenvolvedores.  
+1. Coletar dados de uma ferramenta de gerenciamento de projetos;
+2. Fornecer um modelo de IA treinado capaz de gerar valor por meio de uma leitura gráfica sobre riscos de projetos;
+3. Disponibilizar gráficos em uma interface para que gerentes de projetos, stakeholders e desenvolvedores possam olhar para a versão de um projeto já realizado ou em andamento e entender com base a ela, quais são suas características atribuídas (módulos desenvolvidos, prioridades, tipos de entregas..) para que assim entendam quais ações devem planejar e executar para que novas versões semelhantes não proporcionem o mesmo cenário de erro.
 
 ---
 
@@ -113,7 +113,9 @@ API de predição de atrasos: Implementada em Python utilizando o framework Fast
 **Algoritmos:**  
 - XGBoost  
 - Random Forest  
-- Gradient Boost  
+- Gradient Boost
+
+A escolha por três algoritmos deve-se ao fato de buscar o melhor resultado, permitindo a comparação entre eles e visando unir características de desbalanceamento de dados, melhores precisões, capacidade preditiva mais real e a comparação para a escolha de qual irá apresentar melhor desempenho nos dados, garantindo previsões mais precisas e confiáveis para identificar riscos nos projetos.
 
 **Features:**  
 
@@ -127,7 +129,8 @@ API de predição de atrasos: Implementada em Python utilizando o framework Fast
 | `priority_Critical`    | Prioridade do tipo critical                   |
 | `issuetype_Bug`        | Tipo de atividade como bug                    |
 | `issuetype_Task`       | Tipo de atividade como task                   |
-
+| `issuetype_Task`       | Tipo de atividade como task                   |
+| `cod_epic_xx`          | ID do épico do projeto                        |
 ---
 
 ## 🧰 **Linguagens, Ferramentas e Bibliotecas**
@@ -161,4 +164,11 @@ API de predição de atrasos: Implementada em Python utilizando o framework Fast
 
 ---
 
-**Espero que este formato esteja alinhado às suas expectativas!**
+### **Modelagem de dados**
+
+
+---
+
+### Cronograma de execução
+
+![Cronograma de execução](linguagens-ferramentas-bibliotecas.png)
