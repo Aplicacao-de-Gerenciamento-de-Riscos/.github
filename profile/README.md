@@ -17,7 +17,7 @@
 4. [Problemas a Resolver](#-problemas-a-resolver)  
 5. [Requisitos Funcionais](#-requisitos-funcionais)  
 6. [Requisitos Não Funcionais](#-requisitos-não-funcionais)
-7. [Metodologia](#-metodologia)
+7. [Metodologia](#-%EF%B8%8F-metodologia)
 8. [Detalhamento Técnico do Projeto](#%EF%B8%8F-detalhamento-t%C3%A9cnico-do-projeto)  
    - [Arquitetura do Projeto](#%EF%B8%8F-arquitetura-do-projeto)  
    - [Funcionalidades Principais](#%EF%B8%8F-funcionalidades-principais)  
