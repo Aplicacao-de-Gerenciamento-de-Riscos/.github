@@ -171,4 +171,4 @@ A escolha por três algoritmos deve-se ao fato de buscar o melhor resultado, per
 
 ### Cronograma de execução
 
-![Cronograma de execução](linguagens-ferramentas-bibliotecas.png)
+![Cronograma de execução](Cronograma%20TCC.png)
