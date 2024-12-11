@@ -171,6 +171,6 @@ A escolha por três algoritmos deve-se ao fato de buscar o melhor resultado, per
 
 ---
 
-### **Cronograma de Execucão**
+### **Cronograma de Execução**
 
 ![Cronograma de execução](Cronograma%20TCC.png)
