@@ -207,4 +207,6 @@ Principais tabelas e relações:
 
 ### **Cronograma de Execução**
 
+Por fim, a aplicação foi desenvolvida em paralelo ao acompanhamento de um cronograma, para entendimento das fases e períodos de tempos durante a execução.
+
 ![Cronograma de execução](Cronograma%20TCC.png)
