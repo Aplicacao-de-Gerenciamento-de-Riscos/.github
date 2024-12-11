@@ -12,12 +12,12 @@
 ## 📚 **Sumário**
 
 1. [Resumo](#resumo)  
-2. [Explicação e Contexto do Software](#explicação-e-contexto-do-software)  
+2. [Explicação e Contexto do Software](#explicacao-e-contexto-do-software)  
 3. [Objetivos](#objetivos)  
 4. [Problemas a Resolver](#problemas-a-resolver)  
 5. [Requisitos Funcionais](#requisitos-funcionais)  
-6. [Requisitos Não Funcionais](#requisitos-não-funcionais)  
-7. [Detalhamento Técnico do Projeto](#detalhamento-técnico-do-projeto)  
+6. [Requisitos Não Funcionais](#requisitos-nao-funcionais)  
+7. [Detalhamento Técnico do Projeto](#detalhamento-tecnico-do-projeto)  
    - [Arquitetura do Projeto](#arquitetura-do-projeto)  
    - [Funcionalidades Principais](#funcionalidades-principais)  
    - [Algoritmos de Aprendizagem e Features Utilizadas](#algoritmos-de-aprendizagem-e-features-utilizadas)  
