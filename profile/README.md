@@ -82,9 +82,9 @@ Os principais desafios enfrentados neste projeto decorrem da natureza do modelo 
 
 O projeto utiliza Kanban no Trello para organizar tarefas e acompanhar o progresso do desenvolvimento, permitindo uma visibilidade clara do progresso, dificuldades e entregas.
 
-To Do: Funcionalidades planejadas.
-In Progress: Funcionalidades em desenvolvimento.
-Done: Funcionalidades concluídas.
+To Do: Funcionalidades planejadas.</br>
+In Progress: Funcionalidades em desenvolvimento.</br>
+Done: Funcionalidades concluídas.</br>
 
 ---
 
