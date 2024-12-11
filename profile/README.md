@@ -23,7 +23,7 @@
    - [Algoritmos de Aprendizagem e Features Utilizadas](#-algoritmos-de-aprendizagem-e-features-utilizadas)  
 8. [Linguagens, Ferramentas e Bibliotecas](#-linguagens-ferramentas-e-bibliotecas)  
 9. [Modelagem de Dados](#-modelagem-de-dados)  
-10. [Cronograma de Execução](#-cronograma-de-execução)
+10. [Cronograma de Execução](#cronograma-de-execução)
 
 ---
 
