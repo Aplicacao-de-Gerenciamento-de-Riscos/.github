@@ -12,7 +12,7 @@
 ## 📚 **Sumário**
 
 1. [Resumo](#resumo)  
-2. [Explicação e Contexto do Software](#Explicação-e-Contexto-do-Software)  
+2. [Explicação e Contexto do Software](#explicação-e-contexto-do-software)  
 3. [Objetivos](#objetivos)  
 4. [Problemas a Resolver](#problemas-a-resolver)  
 5. [Requisitos Funcionais](#requisitos-funcionais)  
