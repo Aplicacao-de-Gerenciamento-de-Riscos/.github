@@ -11,10 +11,10 @@
 
 ## 📚 **Sumário**
 
-1. [Resumo](#resumo)  
-2. [Explicação e Contexto do Software](#explicacao-e-Contexto-do-software) 
-3. [Objetivos](#objetivos)  
-4. [Problemas a Resolver](#problemas-a-resolver)  
+1. [Resumo](#-resumo)  
+2. [Explicação e Contexto do Software](#-explicacao-e-Contexto-do-software) 
+3. [Objetivos](#-objetivos)  
+4. [Problemas a Resolver](#-problemas-a-resolver)  
 5. [Requisitos Funcionais](#requisitos-funcionais)  
 6. [Requisitos Não Funcionais](#requisitos-nao-funcionais)  
 7. [Detalhamento Técnico do Projeto](#detalhamento-tecnico-do-projeto)  
