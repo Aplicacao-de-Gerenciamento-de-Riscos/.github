@@ -179,6 +179,18 @@ A escolha por três algoritmos deve-se ao fato de buscar o melhor resultado, per
 
 ### **Modelagem de Dados**
 
+Abaixo, a representação gráfica da modelagem de dados para gerenciar as informações necessárias da aplicação. Cada tabela possui uma função específica e está relacionada por chaves estrangeiras para garantir a integridade dos dados.
+
+Principais tabelas e relações:
+
+tb_project: Representa os projetos, identificados pelo cod_project.
+tb_version: Contém informações das versões de projetos, vinculadas a tb_project por cod_project.
+tb_issue: Armazena detalhes das tarefas (issues) associadas às versões por meio de cod_version (na tb_version_issue).
+tb_sprint: Relacionada às sprints das tarefas por cod_sprint.
+tb_epic: Agrupa tarefas (issues) em épicos por cod_epic.
+tb_worklog e tb_worklog_entry: Armazenam os logs de trabalho associados às tarefas por cod_worklog.
+
+![Modelagem de dados](modelagem%20de%20dados.jpeg)
 
 ---
 
