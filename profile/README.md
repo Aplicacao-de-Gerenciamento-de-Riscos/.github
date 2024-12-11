@@ -23,7 +23,7 @@
    - [Algoritmos de Aprendizagem e Features Utilizadas](#-algoritmos-de-aprendizagem-e-features-utilizadas)  
 8. [Linguagens, Ferramentas e Bibliotecas](#-linguagens-ferramentas-e-bibliotecas)  
 9. [Modelagem de Dados](#-modelagem-de-dados)  
-10. [Cronograma de Execucão](#-cronograma-de-execucão)
+10. [Cronograma de Execucão](#-cronograma-de-execução)
 
 ---
 
@@ -166,11 +166,11 @@ A escolha por três algoritmos deve-se ao fato de buscar o melhor resultado, per
 
 ---
 
-### **Modelagem de dados**
+### **Modelagem de Dados**
 
 
 ---
 
-### Cronograma de execucão
+### **Cronograma de Execucão**
 
 ![Cronograma de execução](Cronograma%20TCC.png)
