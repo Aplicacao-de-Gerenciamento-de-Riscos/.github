@@ -12,7 +12,7 @@
 ## 📚 **Sumário**
 
 1. [Resumo](#-resumo)  
-2. [Explicação e Contexto do Software](#explicacao-e-contexto-do-software) 
+2. [Explicação e Contexto do Software](#-explicacao-e-contexto-do-software) 
 3. [Objetivos](#-objetivos)  
 4. [Problemas a Resolver](#-problemas-a-resolver)  
 5. [Requisitos Funcionais](#-requisitos-funcionais)  
@@ -21,7 +21,9 @@
    - [Arquitetura do Projeto](#arquitetura-do-projeto)  
    - [Funcionalidades Principais](#funcionalidades-principais)  
    - [Algoritmos de Aprendizagem e Features Utilizadas](#-algoritmos-de-aprendizagem-e-features-utilizadas)  
-8. [Linguagens, Ferramentas e Bibliotecas](#-linguagens-ferramentas-e-bibliotecas)  
+8. [Linguagens, Ferramentas e Bibliotecas](#-linguagens-ferramentas-e-bibliotecas)
+9. [Modelagem de dados](#-modelagem-de-dados)
+10. [Cronograma de execução](#-cronograma-de-execução)
 
 ---
 
