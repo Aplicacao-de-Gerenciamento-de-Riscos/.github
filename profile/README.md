@@ -179,9 +179,9 @@ A escolha por três algoritmos deve-se ao fato de buscar o melhor resultado, per
 
 ### **Modelagem de Dados**
 
-Abaixo, a representação gráfica da modelagem de dados para gerenciar as informações necessárias da aplicação. Cada tabela possui uma função específica e está relacionada por chaves estrangeiras para garantir a integridade dos dados.
+Abaixo, a representação gráfica da modelagem de dados por meio do diagrama do banco de dados para gerenciar as informações necessárias da aplicação. Cada tabela possui uma função específica e está relacionada por chaves estrangeiras para garantir a integridade dos dados.
 
-### Principais Tabelas e Relações
+Principais tabelas e relações:
 
 - **`tb_project`**  
   Representa os projetos, identificados pelo campo `cod_project`.
