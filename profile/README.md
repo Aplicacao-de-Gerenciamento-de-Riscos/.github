@@ -16,14 +16,15 @@
 3. [Objetivos](#-objetivos)  
 4. [Problemas a Resolver](#-problemas-a-resolver)  
 5. [Requisitos Funcionais](#-requisitos-funcionais)  
-6. [Requisitos Não Funcionais](#-requisitos-não-funcionais)  
-7. [Detalhamento Técnico do Projeto](#%EF%B8%8F-detalhamento-t%C3%A9cnico-do-projeto)  
+6. [Requisitos Não Funcionais](#-requisitos-não-funcionais)
+7. [Metodologia](#-metodologia)
+8. [Detalhamento Técnico do Projeto](#%EF%B8%8F-detalhamento-t%C3%A9cnico-do-projeto)  
    - [Arquitetura do Projeto](#%EF%B8%8F-arquitetura-do-projeto)  
    - [Funcionalidades Principais](#%EF%B8%8F-funcionalidades-principais)  
    - [Algoritmos de Aprendizagem e Features Utilizadas](#-algoritmos-de-aprendizagem-e-features-utilizadas)  
-8. [Linguagens, Ferramentas e Bibliotecas](#-linguagens-ferramentas-e-bibliotecas)  
-9. [Modelagem de Dados](#modelagem-de-dados)  
-10. [Cronograma de Execução](#cronograma-de-execução)
+9. [Linguagens, Ferramentas e Bibliotecas](#-linguagens-ferramentas-e-bibliotecas)  
+10. [Modelagem de Dados](#modelagem-de-dados)  
+11. [Cronograma de Execução](#cronograma-de-execução)
 
 ---
 
@@ -74,6 +75,16 @@ Os principais desafios enfrentados neste projeto decorrem da natureza do modelo 
 | **RNF004** | Interface intuitiva para garantir que os usuários possam facilmente navegar e utilizar o sistema sem treinamento extensivo.   |
 | **RNF005** | Alta confiabilidade para assegurar que o sistema está sempre disponível e operante, especialmente em condições críticas.      |
 | **RNF006** | Facilidade de manutenção para permitir atualizações e melhorias contínuas sem interrupções significativas do serviço.         |
+
+---
+
+### 🗂️ **Metodologia**
+
+O projeto utiliza Kanban no Trello para organizar tarefas e acompanhar o progresso do desenvolvimento, permitindo uma visibilidade clara do progresso, dificuldades e entregas.
+
+To Do: Funcionalidades planejadas.
+In Progress: Funcionalidades em desenvolvimento.
+Done: Funcionalidades concluídas.
 
 ---
 
