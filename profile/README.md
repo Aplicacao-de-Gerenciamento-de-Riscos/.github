@@ -22,9 +22,10 @@
    - [Arquitetura do Projeto](#%EF%B8%8F-arquitetura-do-projeto)  
    - [Funcionalidades Principais](#%EF%B8%8F-funcionalidades-principais)  
    - [Algoritmos de Aprendizagem e Features Utilizadas](#-algoritmos-de-aprendizagem-e-features-utilizadas)  
-9. [Linguagens, Ferramentas e Bibliotecas](#-linguagens-ferramentas-e-bibliotecas)  
-10. [Modelagem de Dados](#modelagem-de-dados)  
-11. [Cronograma de Execução](#cronograma-de-execução)
+9. [Linguagens, Ferramentas e Bibliotecas](#-linguagens-ferramentas-e-bibliotecas)
+10. [Testes automatizados e pipeline]() 
+11. [Modelagem de Dados](#modelagem-de-dados)  
+12. [Cronograma de Execução](#cronograma-de-execução)
 
 ---
 
@@ -176,6 +177,14 @@ A escolha por três algoritmos deve-se ao fato de buscar o melhor resultado, per
 ![Linguagens, ferramentas e bibliotecas](linguagens-ferramentas-bibliotecas.png)
 
 ---
+
+### **Testes automatizados e pipeline**
+
+Os testes abrangeram tanto o backend quanto o frontend, com o objetivo de avaliar o desempenho e a eficácia das operações principais. No backend, os testes unitários se concentraram em validar a lógica das funções mais importantes, incluindo a inserção de dados no banco e o processamento de informações, bem como em verificar o retorno das métricas utilizadas pelo frontend. No frontend, por sua vez, os testes unitários tiveram o propósito de garantir a correta criação de todos os componentes da aplicação, assegurando assim que as telas sejam carregadas de forma adequada.
+
+CI/CD: A integração contínua (CI) por meio do GitHub Actions tem como objetivo integrar e validar todas as mudanças na branch principal do projeto. As pipelines são configuradas para rodar automaticamente a cada commit ou tag criada no repositório. Durante sua execução, são realizados testes unitários e o processo de build, gerando ao final um artefato que será usado para o deploy.
+
+Quando uma tag é criada, também é gerado um release no GitHub com os artefatos produzidos pelo build. Como se trata de uma aplicação corporativa, as pipelines garantem um artefato final robusto, pronto para ser implantado em um servidor da empresa em ambiente de produção.
 
 ### **Modelagem de Dados**
 
